@@ -1,2 +1,1 @@
-# library_management_system
 # academic_library_management_system
